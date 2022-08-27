@@ -1,6 +1,5 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
-
 export default function Forecast(props) {
     return (
         <View>
@@ -11,16 +10,13 @@ export default function Forecast(props) {
             <View style= {{
                 flexDirection: "row",
                 justifyContent: 'center',
-                
-
             }}>
                 <Text style={style.tempNum}>{props.temp}</Text>
                 <Text style={style.normalText}> °C</Text>
             </View>
         </View> 
     );
-} 
-
+}
 const style = StyleSheet.create(
     {
         normalText: {
@@ -28,16 +24,14 @@ const style = StyleSheet.create(
             fontSize: 30,
             fontWeight: "bold",
             color: 'white',
-
         },
-
         tempNum: {
             fontSize: 60, 
             fontWeight: "bold", 
             color: 'white', 
             textAlign: 'center',
-            lineHeight: 60
+            lineHeight: 58
 
         }
     }
-) 
+)
