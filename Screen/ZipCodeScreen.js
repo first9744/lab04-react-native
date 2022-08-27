@@ -1,6 +1,6 @@
 import React from "react";
 import { FlatList, TouchableHighlight } from "react-native";
-import { StatusBar, View, Text, StyleSheet } from "react-native";
+import { ImageBackground, StatusBar, View, Text, StyleSheet } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 
 const availableZipItems = [
