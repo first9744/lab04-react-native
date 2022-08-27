@@ -8,3 +8,6 @@
 
 ##Part6-3 "add Humodity "
     เพิ่มความชื้นในหน้า Weather
+
+##Part6-4 "add Feel Like"
+    เพิ่มอุณหภูมิตามความรู้สึกและปรับตกแต่งในหน้า Weather 

@@ -60,7 +60,7 @@ const style = StyleSheet.create(
       },
       zipPlace: {
         flex: 2,
-        fontSize: 28,
+        fontSize: 30,
         fontWeight: "bold",
         color: 'white',
         textAlign: 'right'

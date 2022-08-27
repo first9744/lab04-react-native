@@ -53,12 +53,13 @@ export default function Weather(props) {
 const style = StyleSheet.create(
     {
         backdrop: {
+
             width: '100%',
             height: '100%'
         },
         highlight: {
             backgroundColor: 'rgba(0, 0, 0, 0.4)',
-            width:"100%", 
+            width:"100%",  
             height:"60%", 
             paddingTop: Constants.statusBarHeight, 
             alignItems: 'center',
