@@ -6,11 +6,11 @@ import Constants from 'expo-constants';
 export default function Weather(props) {
     const [forecastInfo, setForecastInfo] = useState(
         {
-            main: 'loading..',
-            description: 'loading',
+            main: 'waiting...',
+            description: 'waiting...',
             temp: 0,
-            humidity: 'loading',
-            feels_like: 'loading',
+            humidity: 'waiting...',
+            feels_like: 'waiting...',
         }
     )
 
@@ -60,7 +60,7 @@ const style = StyleSheet.create(
         highlight: {
             backgroundColor: 'rgba(0, 0, 0, 0.4)',
             width:"100%",  
-            height:"60%", 
+            height:"85%", 
             paddingTop: Constants.statusBarHeight, 
             alignItems: 'center',
                 flexDirection: "row",
