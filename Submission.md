@@ -14,3 +14,8 @@
 
 ##Part6-5 "waiting..."
     ระหว่างที่รอข้อมูลจาก api ให้ขึ้นคำว่า waiting...
+ 
+Picture Final   
+![Part6-1](https://user-images.githubusercontent.com/111425829/187035183-b6691a35-ee04-4469-983b-42f261373aeb.png)
+![Part6-2](https://user-images.githubusercontent.com/111425829/187035186-ae0ab8ff-d63e-4433-9d74-f8042862f206.png)
+![Part6-3](https://user-images.githubusercontent.com/111425829/187035187-ae514c04-0d2d-4bef-a391-726703824ea3.png)
